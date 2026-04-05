@@ -140,7 +140,7 @@ xai-thesis/
 ├── .gitignore
 └── README.md
 
-
+```
 ---
 
 ### Step 3: Run the Pipeline
