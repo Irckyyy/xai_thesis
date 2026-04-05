@@ -1,0 +1,8 @@
+data/loan.csv
+data/processed/
+
+__pycache__/
+*.pyc
+
+venv/
+.env
