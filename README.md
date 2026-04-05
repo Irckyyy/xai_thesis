@@ -1,4 +1,4 @@
-# Constraint-Aware Hybrid XAI Framework for Algorithmic Recourse
+# Explainable Artificial Intelligence for Loan Decisions Using Constraint-Aware Counterfactual Explanations
 
 ## Introduction
 This repository contains the data processing, modeling, and evaluation pipeline for my undergraduate Computer Science thesis on Explainable AI (XAI) in financial decision-making.
