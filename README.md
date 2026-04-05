@@ -130,14 +130,13 @@ Due to GitHub file size limitations, the dataset is not included in this reposit
 
 Place the file in the following directory:
 
+```text
 xai-thesis/
-│
 ├── data/
-│ ├── loan.csv
-│ └── processed/
-│
+│   ├── loan.csv
+│   └── processed/
 ├── src/
-│ └── clean_lendingclub.py
+│   └── clean_lendingclub.py
 ├── .gitignore
 └── README.md
 
